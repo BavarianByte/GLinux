@@ -1,2 +1,3 @@
-# glinux-wiki
-The GLinux-Wiki
+# GLinux
+
+This repository inherits the Wiki and also functions as the bug reporter using the Issues tab!
